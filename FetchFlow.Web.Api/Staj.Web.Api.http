@@ -1,0 +1,6 @@
+@Staj.Web.Api_HostAddress = http://localhost:6002
+
+GET {{Staj.Web.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
